@@ -6,3 +6,5 @@ target/
 .vscode/
 .metals/
 .bloop/
+/.idea/$CACHE_FILE$
+/.idea/libraries/

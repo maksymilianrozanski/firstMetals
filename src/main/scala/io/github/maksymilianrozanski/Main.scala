@@ -1,5 +1,4 @@
-package org.example
-import scala.concurrent.Await
+package io.github.maksymilianrozanski
 
 object Main {
 
